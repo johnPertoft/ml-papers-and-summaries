@@ -1,4 +1,6 @@
 TODO
 
+*.slides.html
+
 cache
 .ipynb_checkpoints/
